@@ -1,1 +1,1 @@
-# Plant-Pathology-with-Pytorch
+# Plant-Pathology-FGVC7-EfficentNet
